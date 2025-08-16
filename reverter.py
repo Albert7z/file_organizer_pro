@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Reversor do Organizador Caótico 🔄
+Reversor file_organizer_pro 🔄
 ---------------------------------
 Script para desfazer a organização lendo o relatório HTML gerado.
 

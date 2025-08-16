@@ -7,12 +7,21 @@ Sistema inteligente de organização com detecção de duplicados e reversão co
 Estrutura simplificada: Categoria/Ano/arquivos
 Sem pastas vazias, sem complicação.
 
-▶️ Uso Rápido:
-python organizer.py --dest "C:/Organizado" --dry-run    # Simula primeiro
-python organizer.py --dest "C:/Organizado"              # Executa de verdade
-python reverter.py --report "relatorio.html" --dry-run  # Reverte se necessário
 
-Autor: Alberto
+#  ===============================================
+#  ▶️ Uso Rápido:
+#  -----------------------------------------------
+#  1. Simule a organização de uma pasta específica (RECOMENDADO)
+#  python organizer.py --sources "C:/Caminho/Da/Sua/Pasta  --dest "c:\caminho\da\pasta\Organizado" --dry-run
+#
+#  2. Execute de verdade para a pasta padrão (Downloads, Desktop, etc.)
+#  python organizer.py --dest "C:/Organizado" --open-report
+#
+#  3. Reverte se necessário (use o script reverter.py)
+#  python reverter.py --report "relatorio.html" --dry-run
+#  ===============================================
+
+Autor: Albertt
 GitHub: https://github.com/seu-usuario/file-organizer-pro
 """
 from __future__ import annotations
