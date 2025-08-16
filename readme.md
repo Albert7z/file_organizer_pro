@@ -134,7 +134,6 @@ python reverter.py --report "relatorio.html" --clean-empty
 - **Multiplataforma** (Windows, macOS, Linux)
 
 
-
 ## 🤝 Contribuição
 
 1. Fork o projeto
@@ -158,8 +157,8 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 ## 👨‍💻 Autor
 
 **Albertt**
-- GitHub: (https://github.com/Albert7z)
-- LinkedIn: (https://www.linkedin.com/in/albertdorval/)
+- GitHub: [Albert7z](https://github.com/Albert7z/file-organizer-pro)
+- LinkedIn: [Albert Dorval](https://www.linkedin.com/in/albertdorval/)
 
 ---
 
