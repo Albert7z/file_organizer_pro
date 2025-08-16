@@ -133,12 +133,7 @@ python reverter.py --report "relatorio.html" --clean-empty
 - **HTML/CSS** para relatórios profissionais
 - **Multiplataforma** (Windows, macOS, Linux)
 
-## 📈 Casos de Uso
 
-- **🎮 Bibliotecas de Jogos** - Organiza mantendo estruturas importantes
-- **📁 Limpeza de Downloads** - Remove duplicados automaticamente  
-- **💾 Migração de Dados** - Reorganiza estruturas antigas com segurança
-- **🔍 Auditoria de Espaço** - Identifica onde está ocupado o disco
 
 ## 🤝 Contribuição
 
