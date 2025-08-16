@@ -22,7 +22,7 @@ Sem pastas vazias, sem complicação.
 #  ===============================================
 
 Autor: Albertt
-GitHub: https://github.com/seu-usuario/file-organizer-pro
+GitHub: https://github.com/Albert7z/file_organizer_pro/
 """
 from __future__ import annotations
 
